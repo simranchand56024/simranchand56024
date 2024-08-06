@@ -1,4 +1,3 @@
-![logo](https://github.com/spratyush1908/spratyush1908/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Simran Chand</h1>
 <h3 align="center">A passionate Software developer and SEO expert.</h3>
 

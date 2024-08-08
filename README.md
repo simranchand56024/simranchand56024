@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spratyush1908&label=Profile%20views&color=0e75b6&style=flat" alt="spratyush1908" /> </p>
 
-- 🌱 I’m currently learning **SAP ABAP**
+- 🌱 I’m currently learning **Power BI**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/priyu1908](https://linktr.ee/priyu1908)
 
@@ -21,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/er_pratyush08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_pratyush08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratyush srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush srivastava" height="30" width="40" /></a>
-<a href="https://fb.com/er_pratyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="er_pratyush" height="30" width="40" /></a>
+<a href="https://x.com/SimranChand15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="er_pratyush08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/simran-chand-b1399a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush srivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

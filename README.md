@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 👨‍💻 All of my projects are available at linktr.ee/ersimran
+- 👨‍💻 All of my projects are available at [linktr.ee/ersimran)
 - 📝 I regularly write articles on [https://brandedbuddies.com/bblog](https://brandedbuddies.com/bblog)
 
 - 💬 Ask me about **Python and SQL**

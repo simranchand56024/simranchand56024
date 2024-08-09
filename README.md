@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/priyu1908](https://linktr.ee/priyu1908)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/priyu1908](https://linktr.ee/priyu1908)](https://linktr.ee/ersimran?utm_source=linktree_admin_share )
 
 - 📝 I regularly write articles on [https://brandedbuddies.com/bblog](https://brandedbuddies.com/bblog)
 
